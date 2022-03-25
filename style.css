@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    list-style: inside;
+    background-color: #fffcd0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+ul li, ol li {
+    padding: 10px;
+}
